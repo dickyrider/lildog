@@ -12,8 +12,7 @@ Languages: Cantonese (Native) │ Mandarin (Native) │ English (Technical)
 
 | Project | Description | Tech | Results / Demo |
 |---------|-------------|------|----------------|
-| **[Interactive Backtest Dashboard](https://github.com/lildog/trading-backtest-dashboard)** | Real-time interactive dashboard for multi-strategy comparison with signal overlay | Streamlit / Plotly, Pandas | [Live Demo ⚡](待部署連結) <br>Crypto & equity multi-parameter strategies (2020–2025)|
-| **[Quant Backtest Engine](https://github.com/dickyrider/quant-backtest-engine)** | Vectorized backtesting framework built from scratch (no third-party engines) | Python, Pandas, NumPy | Supports slippage, fees, position sizing, risk controls <br>Real strategies tested on BTC/ETH |
+| **[Binance Quant Engine](https://github.com/lildog/binance-algo-framework)** | Full-stack crypto framework: data → 50+ custom indicators → vectorized backtest → live execution | $10k → $20.97k (+109.7%) in 9 months<br>Sharpe ~2.1<br>568 trades, 54.3% win rate | [Interactive Dashboard ⚡] |
 | **[Live Algo Trading System](https://github.com/dickyrider/live-algo-trading-system)** | Production live trading bot with risk controls and WebSocket execution | Binance / Futu OpenAPI, asyncio | Running 24/7 on crypto spot & futures |
 
 ### Tech Stack
