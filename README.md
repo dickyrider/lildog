@@ -12,9 +12,9 @@ Languages: Cantonese (Native) │ Mandarin (Native) │ English (Technical)
 
 | Project | Description | Tech | Results / Demo |
 |---------|-------------|------|----------------|
-| **[Interactive Backtest Dashboard](https://github.com/lildog/trading-backtest-dashboard)** | Real-time interactive dashboard for multi-strategy comparison with signal overlay | Streamlit / Plotly, Pandas | [Live Demo ⚡](待部署連結) <br>ETH/USD 2021–2025: up to 842% total return |
-| **[Quant Backtest Engine](https://github.com/lildog/quant-backtest-engine)** | Vectorized backtesting framework built from scratch (no third-party engines) | Python, Pandas, NumPy | Slippage & fee modeling, Sharpe up to 3.1 |
-| **[Live Algo Trading System](https://github.com/lildog/live-algo-trading-system)** | Production live trading bot with risk controls and WebSocket execution | Binance / Futu OpenAPI, asyncio | Running 24/7 on crypto spot & futures |
+| **[Interactive Backtest Dashboard](https://github.com/lildog/trading-backtest-dashboard)** | Real-time interactive dashboard for multi-strategy comparison with signal overlay | Streamlit / Plotly, Pandas | [Live Demo ⚡](待部署連結) <br>Crypto & equity multi-parameter strategies (2020–2025)|
+| **[Quant Backtest Engine](https://github.com/dickyrider/quant-backtest-engine)** | Vectorized backtesting framework built from scratch (no third-party engines) | Python, Pandas, NumPy | Supports slippage, fees, position sizing, risk controls <br>Real strategies tested on BTC/ETH |
+| **[Live Algo Trading System](https://github.com/dickyrider/live-algo-trading-system)** | Production live trading bot with risk controls and WebSocket execution | Binance / Futu OpenAPI, asyncio | Running 24/7 on crypto spot & futures |
 
 ### Tech Stack
 `Python` `Pandas` `NumPy` `Streamlit` `Plotly` `WebSocket` `REST API`  
