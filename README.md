@@ -12,7 +12,7 @@ Languages: Cantonese (Native) │ Mandarin (Native) │ English (Technical)
 
 | Project | Description | Tech | Results / Demo |
 |---------|-------------|------|----------------|
-| **[Binance Quant Engine](https://github.com/lildog/binance-algo-framework)** | Full-stack crypto framework: data → 50+ custom indicators → vectorized backtest → live execution | $10k → $20.97k (+109.7%) in 9 months<br>Sharpe ~2.1<br>568 trades, 54.3% win rate | [Interactive Dashboard ⚡] |
+| **[Binance Quant Engine](https://github.com/lildog/binance-algo-framework)** | Full-stack crypto framework: Auto grid-search + equity curve comparison across windows| Python, Pandas, NumPy | [Interactive Dashboard ⚡] |
 | **[Live Algo Trading System](https://github.com/dickyrider/live-algo-trading-system)** | Production live trading bot with risk controls and WebSocket execution | Binance / Futu OpenAPI, asyncio | Running 24/7 on crypto spot & futures |
 
 ### Tech Stack
